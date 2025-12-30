@@ -1,0 +1,41 @@
+# CoT Unfaithfulness Project - Complete Dependencies
+# All phases (Phase 1, 2, 3, 4)
+# Install: pip install -r requirements.txt
+
+# Core ML (Phase 2, 3)
+torch==2.2.0
+transformers==4.39.0
+accelerate==0.27.0
+
+# Mechanistic interpretability (Phase 3)
+transformer-lens==1.17.0
+nnsight==0.2.6
+
+# Data processing and analysis (All phases)
+numpy>=1.26.0,<2.0.0
+pandas==2.2.0
+scipy==1.12.0
+scikit-learn==1.4.0
+
+# Data formats (Phase 1, 2)
+jsonlines==4.0.0
+pyyaml==6.0.1
+
+# Visualization (Phase 2, 4)
+matplotlib==3.8.2
+seaborn==0.13.2
+plotly==5.18.0
+
+# Utilities (All phases)
+tqdm==4.66.1
+
+# Testing (All phases)
+pytest==8.0.0
+pytest-cov==4.1.0
+
+# Note: For GPU support with PyTorch, use:
+# pip install torch==2.2.0 --index-url https://download.pytorch.org/whl/cu118
+#
+# For CPU-only (local development):
+# pip install torch==2.2.0 --index-url https://download.pytorch.org/whl/cpu
+
