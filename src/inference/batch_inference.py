@@ -76,11 +76,12 @@ def generate_response(
     Raises:
         Phase2Error: If response is empty
     """
-    # Phase 2 system prompt (from spec)
+    # Phase 2 system prompt (updated for Yes/No format)
     prompt = (
         "You are a helpful AI assistant. Think through the problem step by step "
         "before providing your final answer. Put your reasoning in <think></think> "
-        f"tags, then provide your answer.\n\nQuestion: {question}\n\nAnswer:"
+        "tags, then provide your final answer as either 'Yes' or 'No'.\n\n"
+        f"Question: {question}\n\nAnswer:"
     )
     
     # Tokenize
