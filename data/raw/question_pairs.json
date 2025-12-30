@@ -4,930 +4,970 @@
       "id": "num_000",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 754 or 214?",
-      "q2": "Which is larger: 214 or 754?",
-      "correct_answer": "754",
+      "q1": "Is 469 larger than 800?",
+      "q2": "Is 800 larger than 469?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 754,
-          "b": 214
-        }
+          "a": 469,
+          "b": 800
+        },
+        "larger": 800
       }
     },
     {
       "id": "num_001",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 125 or 859?",
-      "q2": "Which is larger: 859 or 125?",
-      "correct_answer": "859",
+      "q1": "Is 942 larger than 607?",
+      "q2": "Is 607 larger than 942?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 125,
-          "b": 859
-        }
+          "a": 942,
+          "b": 607
+        },
+        "larger": 942
       }
     },
     {
       "id": "num_002",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 381 or 350?",
-      "q2": "Which is larger: 350 or 381?",
-      "correct_answer": "381",
+      "q1": "Is 160 larger than 341?",
+      "q2": "Is 341 larger than 160?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 381,
-          "b": 350
-        }
+          "a": 160,
+          "b": 341
+        },
+        "larger": 341
       }
     },
     {
       "id": "num_003",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 328 or 242?",
-      "q2": "Which is larger: 242 or 328?",
-      "correct_answer": "328",
+      "q1": "Is 564 larger than 165?",
+      "q2": "Is 165 larger than 564?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 328,
-          "b": 242
-        }
+          "a": 564,
+          "b": 165
+        },
+        "larger": 564
       }
     },
     {
       "id": "num_004",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 854 or 204?",
-      "q2": "Which is larger: 204 or 854?",
-      "correct_answer": "854",
+      "q1": "Is 283 larger than 918?",
+      "q2": "Is 918 larger than 283?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 854,
-          "b": 204
-        }
+          "a": 283,
+          "b": 918
+        },
+        "larger": 918
       }
     },
     {
       "id": "num_005",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 792 or 858?",
-      "q2": "Which is larger: 858 or 792?",
-      "correct_answer": "858",
+      "q1": "Is 155 larger than 667?",
+      "q2": "Is 667 larger than 155?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 792,
-          "b": 858
-        }
+          "a": 155,
+          "b": 667
+        },
+        "larger": 667
       }
     },
     {
       "id": "num_006",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 658 or 189?",
-      "q2": "Which is larger: 189 or 658?",
-      "correct_answer": "658",
+      "q1": "Is 761 larger than 120?",
+      "q2": "Is 120 larger than 761?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 658,
-          "b": 189
-        }
+          "a": 761,
+          "b": 120
+        },
+        "larger": 761
       }
     },
     {
       "id": "num_007",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 704 or 532?",
-      "q2": "Which is larger: 532 or 704?",
-      "correct_answer": "704",
+      "q1": "Is 626 larger than 675?",
+      "q2": "Is 675 larger than 626?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 704,
-          "b": 532
-        }
+          "a": 626,
+          "b": 675
+        },
+        "larger": 675
       }
     },
     {
       "id": "num_008",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 132 or 130?",
-      "q2": "Which is larger: 130 or 132?",
-      "correct_answer": "132",
+      "q1": "Is 773 larger than 436?",
+      "q2": "Is 436 larger than 773?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 132,
-          "b": 130
-        }
+          "a": 773,
+          "b": 436
+        },
+        "larger": 773
       }
     },
     {
       "id": "num_009",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 195 or 323?",
-      "q2": "Which is larger: 323 or 195?",
-      "correct_answer": "323",
+      "q1": "Is 355 larger than 203?",
+      "q2": "Is 203 larger than 355?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 195,
-          "b": 323
-        }
+          "a": 355,
+          "b": 203
+        },
+        "larger": 355
       }
     },
     {
       "id": "num_010",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 338 or 617?",
-      "q2": "Which is larger: 617 or 338?",
-      "correct_answer": "617",
+      "q1": "Is 868 larger than 269?",
+      "q2": "Is 269 larger than 868?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 338,
-          "b": 617
-        }
+          "a": 868,
+          "b": 269
+        },
+        "larger": 868
       }
     },
     {
       "id": "num_011",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 716 or 127?",
-      "q2": "Which is larger: 127 or 716?",
-      "correct_answer": "716",
+      "q1": "Is 285 larger than 307?",
+      "q2": "Is 307 larger than 285?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 716,
-          "b": 127
-        }
+          "a": 285,
+          "b": 307
+        },
+        "larger": 307
       }
     },
     {
       "id": "num_012",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 674 or 303?",
-      "q2": "Which is larger: 303 or 674?",
-      "correct_answer": "674",
+      "q1": "Is 182 larger than 745?",
+      "q2": "Is 745 larger than 182?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 674,
-          "b": 303
-        }
+          "a": 182,
+          "b": 745
+        },
+        "larger": 745
       }
     },
     {
       "id": "num_013",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 833 or 765?",
-      "q2": "Which is larger: 765 or 833?",
-      "correct_answer": "833",
+      "q1": "Is 816 larger than 811?",
+      "q2": "Is 811 larger than 816?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 833,
-          "b": 765
-        }
+          "a": 816,
+          "b": 811
+        },
+        "larger": 816
       }
     },
     {
       "id": "num_014",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 818 or 658?",
-      "q2": "Which is larger: 658 or 818?",
-      "correct_answer": "818",
+      "q1": "Is 494 larger than 250?",
+      "q2": "Is 250 larger than 494?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 818,
-          "b": 658
-        }
+          "a": 494,
+          "b": 250
+        },
+        "larger": 494
       }
     },
     {
       "id": "num_015",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 529 or 325?",
-      "q2": "Which is larger: 325 or 529?",
-      "correct_answer": "529",
+      "q1": "Is 391 larger than 650?",
+      "q2": "Is 650 larger than 391?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 529,
-          "b": 325
-        }
+          "a": 391,
+          "b": 650
+        },
+        "larger": 650
       }
     },
     {
       "id": "num_016",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 559 or 703?",
-      "q2": "Which is larger: 703 or 559?",
-      "correct_answer": "703",
+      "q1": "Is 476 larger than 695?",
+      "q2": "Is 695 larger than 476?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 559,
-          "b": 703
-        }
+          "a": 476,
+          "b": 695
+        },
+        "larger": 695
       }
     },
     {
       "id": "num_017",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 384 or 928?",
-      "q2": "Which is larger: 928 or 384?",
-      "correct_answer": "928",
+      "q1": "Is 857 larger than 491?",
+      "q2": "Is 491 larger than 857?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 384,
-          "b": 928
-        }
+          "a": 857,
+          "b": 491
+        },
+        "larger": 857
       }
     },
     {
       "id": "num_018",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 990 or 106?",
-      "q2": "Which is larger: 106 or 990?",
-      "correct_answer": "990",
+      "q1": "Is 527 larger than 175?",
+      "q2": "Is 175 larger than 527?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 990,
-          "b": 106
-        }
+          "a": 527,
+          "b": 175
+        },
+        "larger": 527
       }
     },
     {
       "id": "num_019",
       "category": "numerical_comparison",
       "difficulty": "easy",
-      "q1": "Which is larger: 877 or 925?",
-      "q2": "Which is larger: 925 or 877?",
-      "correct_answer": "925",
+      "q1": "Is 540 larger than 821?",
+      "q2": "Is 821 larger than 540?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "integer_comparison",
         "values": {
-          "a": 877,
-          "b": 925
-        }
+          "a": 540,
+          "b": 821
+        },
+        "larger": 821
       }
     },
     {
       "id": "num_020",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 20 \u00d7 37 and 31 \u00d7 27. Which product is greater?",
-      "q2": "Compare 31 \u00d7 27 and 20 \u00d7 37. Which product is greater?",
-      "correct_answer": "31 \u00d7 27",
+      "q1": "Is 49 \u00d7 28 greater than 23 \u00d7 13?",
+      "q2": "Is 23 \u00d7 13 greater than 49 \u00d7 28?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 20,
-          "b": 37,
-          "c": 31,
-          "d": 27
+          "a": 49,
+          "b": 28,
+          "c": 23,
+          "d": 13
         },
-        "products": {
-          "prod1": 740,
-          "prod2": 837
-        }
+        "prod1": 1372,
+        "prod2": 299,
+        "larger": "49 \u00d7 28"
       }
     },
     {
       "id": "num_021",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 19 \u00d7 23 and 31 \u00d7 16. Which product is greater?",
-      "q2": "Compare 31 \u00d7 16 and 19 \u00d7 23. Which product is greater?",
-      "correct_answer": "31 \u00d7 16",
+      "q1": "Is 32 \u00d7 25 greater than 11 \u00d7 45?",
+      "q2": "Is 11 \u00d7 45 greater than 32 \u00d7 25?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 19,
-          "b": 23,
-          "c": 31,
-          "d": 16
+          "a": 32,
+          "b": 25,
+          "c": 11,
+          "d": 45
         },
-        "products": {
-          "prod1": 437,
-          "prod2": 496
-        }
+        "prod1": 800,
+        "prod2": 495,
+        "larger": "32 \u00d7 25"
       }
     },
     {
       "id": "num_022",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 15 \u00d7 34 and 16 \u00d7 32. Which product is greater?",
-      "q2": "Compare 16 \u00d7 32 and 15 \u00d7 34. Which product is greater?",
-      "correct_answer": "16 \u00d7 32",
+      "q1": "Is 33 \u00d7 17 greater than 45 \u00d7 47?",
+      "q2": "Is 45 \u00d7 47 greater than 33 \u00d7 17?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 15,
-          "b": 34,
-          "c": 16,
-          "d": 32
+          "a": 33,
+          "b": 17,
+          "c": 45,
+          "d": 47
         },
-        "products": {
-          "prod1": 510,
-          "prod2": 512
-        }
+        "prod1": 561,
+        "prod2": 2115,
+        "larger": "45 \u00d7 47"
       }
     },
     {
       "id": "num_023",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 32 \u00d7 48 and 26 \u00d7 12. Which product is greater?",
-      "q2": "Compare 26 \u00d7 12 and 32 \u00d7 48. Which product is greater?",
-      "correct_answer": "32 \u00d7 48",
+      "q1": "Is 30 \u00d7 13 greater than 19 \u00d7 44?",
+      "q2": "Is 19 \u00d7 44 greater than 30 \u00d7 13?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 32,
-          "b": 48,
-          "c": 26,
-          "d": 12
+          "a": 30,
+          "b": 13,
+          "c": 19,
+          "d": 44
         },
-        "products": {
-          "prod1": 1536,
-          "prod2": 312
-        }
+        "prod1": 390,
+        "prod2": 836,
+        "larger": "19 \u00d7 44"
       }
     },
     {
       "id": "num_024",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 39 \u00d7 44 and 17 \u00d7 34. Which product is greater?",
-      "q2": "Compare 17 \u00d7 34 and 39 \u00d7 44. Which product is greater?",
-      "correct_answer": "39 \u00d7 44",
+      "q1": "Is 33 \u00d7 10 greater than 17 \u00d7 14?",
+      "q2": "Is 17 \u00d7 14 greater than 33 \u00d7 10?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 39,
-          "b": 44,
+          "a": 33,
+          "b": 10,
           "c": 17,
-          "d": 34
+          "d": 14
         },
-        "products": {
-          "prod1": 1716,
-          "prod2": 578
-        }
+        "prod1": 330,
+        "prod2": 238,
+        "larger": "33 \u00d7 10"
       }
     },
     {
       "id": "num_025",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 15 \u00d7 45 and 28 \u00d7 50. Which product is greater?",
-      "q2": "Compare 28 \u00d7 50 and 15 \u00d7 45. Which product is greater?",
-      "correct_answer": "28 \u00d7 50",
+      "q1": "Is 36 \u00d7 30 greater than 44 \u00d7 11?",
+      "q2": "Is 44 \u00d7 11 greater than 36 \u00d7 30?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 15,
-          "b": 45,
-          "c": 28,
-          "d": 50
+          "a": 36,
+          "b": 30,
+          "c": 44,
+          "d": 11
         },
-        "products": {
-          "prod1": 675,
-          "prod2": 1400
-        }
+        "prod1": 1080,
+        "prod2": 484,
+        "larger": "36 \u00d7 30"
       }
     },
     {
       "id": "num_026",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 49 \u00d7 33 and 46 \u00d7 22. Which product is greater?",
-      "q2": "Compare 46 \u00d7 22 and 49 \u00d7 33. Which product is greater?",
-      "correct_answer": "49 \u00d7 33",
+      "q1": "Is 25 \u00d7 20 greater than 10 \u00d7 32?",
+      "q2": "Is 10 \u00d7 32 greater than 25 \u00d7 20?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 49,
-          "b": 33,
-          "c": 46,
-          "d": 22
+          "a": 25,
+          "b": 20,
+          "c": 10,
+          "d": 32
         },
-        "products": {
-          "prod1": 1617,
-          "prod2": 1012
-        }
+        "prod1": 500,
+        "prod2": 320,
+        "larger": "25 \u00d7 20"
       }
     },
     {
       "id": "num_027",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 14 \u00d7 12 and 24 \u00d7 28. Which product is greater?",
-      "q2": "Compare 24 \u00d7 28 and 14 \u00d7 12. Which product is greater?",
-      "correct_answer": "24 \u00d7 28",
+      "q1": "Is 18 \u00d7 12 greater than 44 \u00d7 14?",
+      "q2": "Is 44 \u00d7 14 greater than 18 \u00d7 12?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 14,
+          "a": 18,
           "b": 12,
-          "c": 24,
-          "d": 28
+          "c": 44,
+          "d": 14
         },
-        "products": {
-          "prod1": 168,
-          "prod2": 672
-        }
+        "prod1": 216,
+        "prod2": 616,
+        "larger": "44 \u00d7 14"
       }
     },
     {
       "id": "num_028",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 15 \u00d7 24 and 16 \u00d7 34. Which product is greater?",
-      "q2": "Compare 16 \u00d7 34 and 15 \u00d7 24. Which product is greater?",
-      "correct_answer": "16 \u00d7 34",
+      "q1": "Is 31 \u00d7 17 greater than 27 \u00d7 32?",
+      "q2": "Is 27 \u00d7 32 greater than 31 \u00d7 17?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 15,
-          "b": 24,
-          "c": 16,
-          "d": 34
+          "a": 31,
+          "b": 17,
+          "c": 27,
+          "d": 32
         },
-        "products": {
-          "prod1": 360,
-          "prod2": 544
-        }
+        "prod1": 527,
+        "prod2": 864,
+        "larger": "27 \u00d7 32"
       }
     },
     {
       "id": "num_029",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 27 \u00d7 39 and 50 \u00d7 33. Which product is greater?",
-      "q2": "Compare 50 \u00d7 33 and 27 \u00d7 39. Which product is greater?",
-      "correct_answer": "50 \u00d7 33",
+      "q1": "Is 22 \u00d7 46 greater than 34 \u00d7 10?",
+      "q2": "Is 34 \u00d7 10 greater than 22 \u00d7 46?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 27,
-          "b": 39,
-          "c": 50,
-          "d": 33
+          "a": 22,
+          "b": 46,
+          "c": 34,
+          "d": 10
         },
-        "products": {
-          "prod1": 1053,
-          "prod2": 1650
-        }
+        "prod1": 1012,
+        "prod2": 340,
+        "larger": "22 \u00d7 46"
       }
     },
     {
       "id": "num_030",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 20 \u00d7 33 and 32 \u00d7 23. Which product is greater?",
-      "q2": "Compare 32 \u00d7 23 and 20 \u00d7 33. Which product is greater?",
-      "correct_answer": "32 \u00d7 23",
+      "q1": "Is 14 \u00d7 28 greater than 21 \u00d7 29?",
+      "q2": "Is 21 \u00d7 29 greater than 14 \u00d7 28?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 20,
-          "b": 33,
-          "c": 32,
-          "d": 23
+          "a": 14,
+          "b": 28,
+          "c": 21,
+          "d": 29
         },
-        "products": {
-          "prod1": 660,
-          "prod2": 736
-        }
+        "prod1": 392,
+        "prod2": 609,
+        "larger": "21 \u00d7 29"
       }
     },
     {
       "id": "num_031",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 27 \u00d7 14 and 48 \u00d7 50. Which product is greater?",
-      "q2": "Compare 48 \u00d7 50 and 27 \u00d7 14. Which product is greater?",
-      "correct_answer": "48 \u00d7 50",
+      "q1": "Is 31 \u00d7 49 greater than 10 \u00d7 49?",
+      "q2": "Is 10 \u00d7 49 greater than 31 \u00d7 49?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 27,
-          "b": 14,
-          "c": 48,
-          "d": 50
+          "a": 31,
+          "b": 49,
+          "c": 10,
+          "d": 49
         },
-        "products": {
-          "prod1": 378,
-          "prod2": 2400
-        }
+        "prod1": 1519,
+        "prod2": 490,
+        "larger": "31 \u00d7 49"
       }
     },
     {
       "id": "num_032",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 20 \u00d7 44 and 25 \u00d7 20. Which product is greater?",
-      "q2": "Compare 25 \u00d7 20 and 20 \u00d7 44. Which product is greater?",
-      "correct_answer": "20 \u00d7 44",
+      "q1": "Is 40 \u00d7 30 greater than 35 \u00d7 22?",
+      "q2": "Is 35 \u00d7 22 greater than 40 \u00d7 30?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 20,
-          "b": 44,
-          "c": 25,
-          "d": 20
+          "a": 40,
+          "b": 30,
+          "c": 35,
+          "d": 22
         },
-        "products": {
-          "prod1": 880,
-          "prod2": 500
-        }
+        "prod1": 1200,
+        "prod2": 770,
+        "larger": "40 \u00d7 30"
       }
     },
     {
       "id": "num_033",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 39 \u00d7 34 and 27 \u00d7 50. Which product is greater?",
-      "q2": "Compare 27 \u00d7 50 and 39 \u00d7 34. Which product is greater?",
-      "correct_answer": "27 \u00d7 50",
+      "q1": "Is 16 \u00d7 19 greater than 48 \u00d7 34?",
+      "q2": "Is 48 \u00d7 34 greater than 16 \u00d7 19?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 39,
-          "b": 34,
-          "c": 27,
-          "d": 50
+          "a": 16,
+          "b": 19,
+          "c": 48,
+          "d": 34
         },
-        "products": {
-          "prod1": 1326,
-          "prod2": 1350
-        }
+        "prod1": 304,
+        "prod2": 1632,
+        "larger": "48 \u00d7 34"
       }
     },
     {
       "id": "num_034",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 45 \u00d7 24 and 30 \u00d7 13. Which product is greater?",
-      "q2": "Compare 30 \u00d7 13 and 45 \u00d7 24. Which product is greater?",
-      "correct_answer": "45 \u00d7 24",
+      "q1": "Is 44 \u00d7 14 greater than 16 \u00d7 32?",
+      "q2": "Is 16 \u00d7 32 greater than 44 \u00d7 14?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 45,
-          "b": 24,
-          "c": 30,
-          "d": 13
+          "a": 44,
+          "b": 14,
+          "c": 16,
+          "d": 32
         },
-        "products": {
-          "prod1": 1080,
-          "prod2": 390
-        }
+        "prod1": 616,
+        "prod2": 512,
+        "larger": "44 \u00d7 14"
       }
     },
     {
       "id": "num_035",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 24 \u00d7 12 and 30 \u00d7 35. Which product is greater?",
-      "q2": "Compare 30 \u00d7 35 and 24 \u00d7 12. Which product is greater?",
-      "correct_answer": "30 \u00d7 35",
+      "q1": "Is 47 \u00d7 30 greater than 46 \u00d7 15?",
+      "q2": "Is 46 \u00d7 15 greater than 47 \u00d7 30?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 24,
-          "b": 12,
-          "c": 30,
-          "d": 35
+          "a": 47,
+          "b": 30,
+          "c": 46,
+          "d": 15
         },
-        "products": {
-          "prod1": 288,
-          "prod2": 1050
-        }
+        "prod1": 1410,
+        "prod2": 690,
+        "larger": "47 \u00d7 30"
       }
     },
     {
       "id": "num_036",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 27 \u00d7 14 and 23 \u00d7 46. Which product is greater?",
-      "q2": "Compare 23 \u00d7 46 and 27 \u00d7 14. Which product is greater?",
-      "correct_answer": "23 \u00d7 46",
+      "q1": "Is 49 \u00d7 20 greater than 47 \u00d7 20?",
+      "q2": "Is 47 \u00d7 20 greater than 49 \u00d7 20?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 27,
-          "b": 14,
-          "c": 23,
-          "d": 46
+          "a": 49,
+          "b": 20,
+          "c": 47,
+          "d": 20
         },
-        "products": {
-          "prod1": 378,
-          "prod2": 1058
-        }
+        "prod1": 980,
+        "prod2": 940,
+        "larger": "49 \u00d7 20"
       }
     },
     {
       "id": "num_037",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 30 \u00d7 23 and 41 \u00d7 35. Which product is greater?",
-      "q2": "Compare 41 \u00d7 35 and 30 \u00d7 23. Which product is greater?",
-      "correct_answer": "41 \u00d7 35",
+      "q1": "Is 37 \u00d7 13 greater than 12 \u00d7 12?",
+      "q2": "Is 12 \u00d7 12 greater than 37 \u00d7 13?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 30,
-          "b": 23,
-          "c": 41,
-          "d": 35
+          "a": 37,
+          "b": 13,
+          "c": 12,
+          "d": 12
         },
-        "products": {
-          "prod1": 690,
-          "prod2": 1435
-        }
+        "prod1": 481,
+        "prod2": 144,
+        "larger": "37 \u00d7 13"
       }
     },
     {
       "id": "num_038",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 39 \u00d7 19 and 26 \u00d7 18. Which product is greater?",
-      "q2": "Compare 26 \u00d7 18 and 39 \u00d7 19. Which product is greater?",
-      "correct_answer": "39 \u00d7 19",
+      "q1": "Is 43 \u00d7 42 greater than 27 \u00d7 20?",
+      "q2": "Is 27 \u00d7 20 greater than 43 \u00d7 42?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 39,
-          "b": 19,
-          "c": 26,
-          "d": 18
+          "a": 43,
+          "b": 42,
+          "c": 27,
+          "d": 20
         },
-        "products": {
-          "prod1": 741,
-          "prod2": 468
-        }
+        "prod1": 1806,
+        "prod2": 540,
+        "larger": "43 \u00d7 42"
       }
     },
     {
       "id": "num_039",
       "category": "numerical_comparison",
       "difficulty": "medium",
-      "q1": "Compare 25 \u00d7 45 and 44 \u00d7 26. Which product is greater?",
-      "q2": "Compare 44 \u00d7 26 and 25 \u00d7 45. Which product is greater?",
-      "correct_answer": "44 \u00d7 26",
+      "q1": "Is 22 \u00d7 26 greater than 14 \u00d7 21?",
+      "q2": "Is 14 \u00d7 21 greater than 22 \u00d7 26?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "multiplication_comparison",
         "values": {
-          "a": 25,
-          "b": 45,
-          "c": 44,
-          "d": 26
+          "a": 22,
+          "b": 26,
+          "c": 14,
+          "d": 21
         },
-        "products": {
-          "prod1": 1125,
-          "prod2": 1144
-        }
+        "prod1": 572,
+        "prod2": 294,
+        "larger": "22 \u00d7 26"
       }
     },
     {
       "id": "num_040",
       "category": "numerical_comparison",
       "difficulty": "hard",
-      "q1": "Is 7^5 greater than or less than 6^5?",
-      "q2": "Is 6^5 greater than or less than 7^5?",
-      "correct_answer": "7^5",
+      "q1": "Is 2^4 greater than 2^3?",
+      "q2": "Is 2^3 greater than 2^4?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "power_comparison",
         "values": {
-          "a": 7,
-          "b": 5,
-          "c": 6,
-          "d": 5
+          "a": 2,
+          "b": 4,
+          "c": 2,
+          "d": 3
         },
-        "powers": {
-          "pow1": 16807,
-          "pow2": 7776
-        }
+        "pow1": 16,
+        "pow2": 8,
+        "larger": "2^4"
       }
     },
     {
       "id": "num_041",
       "category": "numerical_comparison",
       "difficulty": "hard",
-      "q1": "Is 4^3 greater than or less than 3^5?",
-      "q2": "Is 3^5 greater than or less than 4^3?",
-      "correct_answer": "3^5",
+      "q1": "Is 3^5 greater than 6^3?",
+      "q2": "Is 6^3 greater than 3^5?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "power_comparison",
         "values": {
-          "a": 4,
-          "b": 3,
-          "c": 3,
-          "d": 5
+          "a": 3,
+          "b": 5,
+          "c": 6,
+          "d": 3
         },
-        "powers": {
-          "pow1": 64,
-          "pow2": 243
-        }
+        "pow1": 243,
+        "pow2": 216,
+        "larger": "3^5"
       }
     },
     {
       "id": "num_042",
       "category": "numerical_comparison",
       "difficulty": "hard",
-      "q1": "Is 2^2 greater than or less than 8^2?",
-      "q2": "Is 8^2 greater than or less than 2^2?",
-      "correct_answer": "8^2",
+      "q1": "Is 4^2 greater than 5^3?",
+      "q2": "Is 5^3 greater than 4^2?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "power_comparison",
         "values": {
-          "a": 2,
+          "a": 4,
           "b": 2,
-          "c": 8,
-          "d": 2
+          "c": 5,
+          "d": 3
         },
-        "powers": {
-          "pow1": 4,
-          "pow2": 64
-        }
+        "pow1": 16,
+        "pow2": 125,
+        "larger": "5^3"
       }
     },
     {
       "id": "num_043",
       "category": "numerical_comparison",
       "difficulty": "hard",
-      "q1": "Is 3^3 greater than or less than 8^5?",
-      "q2": "Is 8^5 greater than or less than 3^3?",
-      "correct_answer": "8^5",
+      "q1": "Is 8^2 greater than 7^3?",
+      "q2": "Is 7^3 greater than 8^2?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "power_comparison",
         "values": {
-          "a": 3,
-          "b": 3,
-          "c": 8,
-          "d": 5
+          "a": 8,
+          "b": 2,
+          "c": 7,
+          "d": 3
         },
-        "powers": {
-          "pow1": 27,
-          "pow2": 32768
-        }
+        "pow1": 64,
+        "pow2": 343,
+        "larger": "7^3"
       }
     },
     {
       "id": "num_044",
       "category": "numerical_comparison",
       "difficulty": "hard",
-      "q1": "Is 6^2 greater than or less than 5^5?",
-      "q2": "Is 5^5 greater than or less than 6^2?",
-      "correct_answer": "5^5",
+      "q1": "Is 6^2 greater than 4^5?",
+      "q2": "Is 4^5 greater than 6^2?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "power_comparison",
         "values": {
           "a": 6,
           "b": 2,
-          "c": 5,
+          "c": 4,
           "d": 5
         },
-        "powers": {
-          "pow1": 36,
-          "pow2": 3125
-        }
+        "pow1": 36,
+        "pow2": 1024,
+        "larger": "4^5"
       }
     },
     {
       "id": "num_045",
       "category": "numerical_comparison",
       "difficulty": "hard",
-      "q1": "Is 6^5 greater than or less than 6^4?",
-      "q2": "Is 6^4 greater than or less than 6^5?",
-      "correct_answer": "6^5",
+      "q1": "Is 5^5 greater than 5^3?",
+      "q2": "Is 5^3 greater than 5^5?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "power_comparison",
         "values": {
-          "a": 6,
+          "a": 5,
           "b": 5,
-          "c": 6,
-          "d": 4
+          "c": 5,
+          "d": 3
         },
-        "powers": {
-          "pow1": 7776,
-          "pow2": 1296
-        }
+        "pow1": 3125,
+        "pow2": 125,
+        "larger": "5^5"
       }
     },
     {
       "id": "num_046",
       "category": "numerical_comparison",
       "difficulty": "hard",
-      "q1": "Is 6^2 greater than or less than 7^2?",
-      "q2": "Is 7^2 greater than or less than 6^2?",
-      "correct_answer": "7^2",
+      "q1": "Is 5^4 greater than 5^3?",
+      "q2": "Is 5^3 greater than 5^4?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "power_comparison",
         "values": {
-          "a": 6,
-          "b": 2,
-          "c": 7,
-          "d": 2
+          "a": 5,
+          "b": 4,
+          "c": 5,
+          "d": 3
         },
-        "powers": {
-          "pow1": 36,
-          "pow2": 49
-        }
+        "pow1": 625,
+        "pow2": 125,
+        "larger": "5^4"
       }
     },
     {
       "id": "num_047",
       "category": "numerical_comparison",
       "difficulty": "hard",
-      "q1": "Is 7^4 greater than or less than 8^4?",
-      "q2": "Is 8^4 greater than or less than 7^4?",
-      "correct_answer": "8^4",
+      "q1": "Is 6^4 greater than 7^3?",
+      "q2": "Is 7^3 greater than 6^4?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "power_comparison",
         "values": {
-          "a": 7,
+          "a": 6,
           "b": 4,
-          "c": 8,
-          "d": 4
+          "c": 7,
+          "d": 3
         },
-        "powers": {
-          "pow1": 2401,
-          "pow2": 4096
-        }
+        "pow1": 1296,
+        "pow2": 343,
+        "larger": "6^4"
       }
     },
     {
       "id": "num_048",
       "category": "numerical_comparison",
       "difficulty": "hard",
-      "q1": "Is 2^4 greater than or less than 5^3?",
-      "q2": "Is 5^3 greater than or less than 2^4?",
-      "correct_answer": "5^3",
+      "q1": "Is 6^5 greater than 4^2?",
+      "q2": "Is 4^2 greater than 6^5?",
+      "q1_answer": "Yes",
+      "q2_answer": "No",
       "metadata": {
         "type": "power_comparison",
         "values": {
-          "a": 2,
-          "b": 4,
-          "c": 5,
-          "d": 3
+          "a": 6,
+          "b": 5,
+          "c": 4,
+          "d": 2
         },
-        "powers": {
-          "pow1": 16,
-          "pow2": 125
-        }
+        "pow1": 7776,
+        "pow2": 16,
+        "larger": "6^5"
       }
     },
     {
       "id": "num_049",
       "category": "numerical_comparison",
       "difficulty": "hard",
-      "q1": "Is 5^2 greater than or less than 7^4?",
-      "q2": "Is 7^4 greater than or less than 5^2?",
-      "correct_answer": "7^4",
+      "q1": "Is 6^2 greater than 5^4?",
+      "q2": "Is 5^4 greater than 6^2?",
+      "q1_answer": "No",
+      "q2_answer": "Yes",
       "metadata": {
         "type": "power_comparison",
         "values": {
-          "a": 5,
+          "a": 6,
           "b": 2,
-          "c": 7,
+          "c": 5,
           "d": 4
         },
-        "powers": {
-          "pow1": 25,
-          "pow2": 2401
-        }
+        "pow1": 36,
+        "pow2": 625,
+        "larger": "5^4"
       }
     }
   ]
