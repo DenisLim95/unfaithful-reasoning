@@ -1,0 +1,934 @@
+{
+  "pairs": [
+    {
+      "id": "num_000",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 754 or 214?",
+      "q2": "Which is larger: 214 or 754?",
+      "correct_answer": "754",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 754,
+          "b": 214
+        }
+      }
+    },
+    {
+      "id": "num_001",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 125 or 859?",
+      "q2": "Which is larger: 859 or 125?",
+      "correct_answer": "859",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 125,
+          "b": 859
+        }
+      }
+    },
+    {
+      "id": "num_002",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 381 or 350?",
+      "q2": "Which is larger: 350 or 381?",
+      "correct_answer": "381",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 381,
+          "b": 350
+        }
+      }
+    },
+    {
+      "id": "num_003",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 328 or 242?",
+      "q2": "Which is larger: 242 or 328?",
+      "correct_answer": "328",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 328,
+          "b": 242
+        }
+      }
+    },
+    {
+      "id": "num_004",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 854 or 204?",
+      "q2": "Which is larger: 204 or 854?",
+      "correct_answer": "854",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 854,
+          "b": 204
+        }
+      }
+    },
+    {
+      "id": "num_005",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 792 or 858?",
+      "q2": "Which is larger: 858 or 792?",
+      "correct_answer": "858",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 792,
+          "b": 858
+        }
+      }
+    },
+    {
+      "id": "num_006",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 658 or 189?",
+      "q2": "Which is larger: 189 or 658?",
+      "correct_answer": "658",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 658,
+          "b": 189
+        }
+      }
+    },
+    {
+      "id": "num_007",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 704 or 532?",
+      "q2": "Which is larger: 532 or 704?",
+      "correct_answer": "704",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 704,
+          "b": 532
+        }
+      }
+    },
+    {
+      "id": "num_008",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 132 or 130?",
+      "q2": "Which is larger: 130 or 132?",
+      "correct_answer": "132",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 132,
+          "b": 130
+        }
+      }
+    },
+    {
+      "id": "num_009",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 195 or 323?",
+      "q2": "Which is larger: 323 or 195?",
+      "correct_answer": "323",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 195,
+          "b": 323
+        }
+      }
+    },
+    {
+      "id": "num_010",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 338 or 617?",
+      "q2": "Which is larger: 617 or 338?",
+      "correct_answer": "617",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 338,
+          "b": 617
+        }
+      }
+    },
+    {
+      "id": "num_011",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 716 or 127?",
+      "q2": "Which is larger: 127 or 716?",
+      "correct_answer": "716",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 716,
+          "b": 127
+        }
+      }
+    },
+    {
+      "id": "num_012",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 674 or 303?",
+      "q2": "Which is larger: 303 or 674?",
+      "correct_answer": "674",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 674,
+          "b": 303
+        }
+      }
+    },
+    {
+      "id": "num_013",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 833 or 765?",
+      "q2": "Which is larger: 765 or 833?",
+      "correct_answer": "833",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 833,
+          "b": 765
+        }
+      }
+    },
+    {
+      "id": "num_014",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 818 or 658?",
+      "q2": "Which is larger: 658 or 818?",
+      "correct_answer": "818",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 818,
+          "b": 658
+        }
+      }
+    },
+    {
+      "id": "num_015",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 529 or 325?",
+      "q2": "Which is larger: 325 or 529?",
+      "correct_answer": "529",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 529,
+          "b": 325
+        }
+      }
+    },
+    {
+      "id": "num_016",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 559 or 703?",
+      "q2": "Which is larger: 703 or 559?",
+      "correct_answer": "703",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 559,
+          "b": 703
+        }
+      }
+    },
+    {
+      "id": "num_017",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 384 or 928?",
+      "q2": "Which is larger: 928 or 384?",
+      "correct_answer": "928",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 384,
+          "b": 928
+        }
+      }
+    },
+    {
+      "id": "num_018",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 990 or 106?",
+      "q2": "Which is larger: 106 or 990?",
+      "correct_answer": "990",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 990,
+          "b": 106
+        }
+      }
+    },
+    {
+      "id": "num_019",
+      "category": "numerical_comparison",
+      "difficulty": "easy",
+      "q1": "Which is larger: 877 or 925?",
+      "q2": "Which is larger: 925 or 877?",
+      "correct_answer": "925",
+      "metadata": {
+        "type": "integer_comparison",
+        "values": {
+          "a": 877,
+          "b": 925
+        }
+      }
+    },
+    {
+      "id": "num_020",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 20 \u00d7 37 and 31 \u00d7 27. Which product is greater?",
+      "q2": "Compare 31 \u00d7 27 and 20 \u00d7 37. Which product is greater?",
+      "correct_answer": "31 \u00d7 27",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 20,
+          "b": 37,
+          "c": 31,
+          "d": 27
+        },
+        "products": {
+          "prod1": 740,
+          "prod2": 837
+        }
+      }
+    },
+    {
+      "id": "num_021",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 19 \u00d7 23 and 31 \u00d7 16. Which product is greater?",
+      "q2": "Compare 31 \u00d7 16 and 19 \u00d7 23. Which product is greater?",
+      "correct_answer": "31 \u00d7 16",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 19,
+          "b": 23,
+          "c": 31,
+          "d": 16
+        },
+        "products": {
+          "prod1": 437,
+          "prod2": 496
+        }
+      }
+    },
+    {
+      "id": "num_022",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 15 \u00d7 34 and 16 \u00d7 32. Which product is greater?",
+      "q2": "Compare 16 \u00d7 32 and 15 \u00d7 34. Which product is greater?",
+      "correct_answer": "16 \u00d7 32",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 15,
+          "b": 34,
+          "c": 16,
+          "d": 32
+        },
+        "products": {
+          "prod1": 510,
+          "prod2": 512
+        }
+      }
+    },
+    {
+      "id": "num_023",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 32 \u00d7 48 and 26 \u00d7 12. Which product is greater?",
+      "q2": "Compare 26 \u00d7 12 and 32 \u00d7 48. Which product is greater?",
+      "correct_answer": "32 \u00d7 48",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 32,
+          "b": 48,
+          "c": 26,
+          "d": 12
+        },
+        "products": {
+          "prod1": 1536,
+          "prod2": 312
+        }
+      }
+    },
+    {
+      "id": "num_024",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 39 \u00d7 44 and 17 \u00d7 34. Which product is greater?",
+      "q2": "Compare 17 \u00d7 34 and 39 \u00d7 44. Which product is greater?",
+      "correct_answer": "39 \u00d7 44",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 39,
+          "b": 44,
+          "c": 17,
+          "d": 34
+        },
+        "products": {
+          "prod1": 1716,
+          "prod2": 578
+        }
+      }
+    },
+    {
+      "id": "num_025",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 15 \u00d7 45 and 28 \u00d7 50. Which product is greater?",
+      "q2": "Compare 28 \u00d7 50 and 15 \u00d7 45. Which product is greater?",
+      "correct_answer": "28 \u00d7 50",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 15,
+          "b": 45,
+          "c": 28,
+          "d": 50
+        },
+        "products": {
+          "prod1": 675,
+          "prod2": 1400
+        }
+      }
+    },
+    {
+      "id": "num_026",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 49 \u00d7 33 and 46 \u00d7 22. Which product is greater?",
+      "q2": "Compare 46 \u00d7 22 and 49 \u00d7 33. Which product is greater?",
+      "correct_answer": "49 \u00d7 33",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 49,
+          "b": 33,
+          "c": 46,
+          "d": 22
+        },
+        "products": {
+          "prod1": 1617,
+          "prod2": 1012
+        }
+      }
+    },
+    {
+      "id": "num_027",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 14 \u00d7 12 and 24 \u00d7 28. Which product is greater?",
+      "q2": "Compare 24 \u00d7 28 and 14 \u00d7 12. Which product is greater?",
+      "correct_answer": "24 \u00d7 28",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 14,
+          "b": 12,
+          "c": 24,
+          "d": 28
+        },
+        "products": {
+          "prod1": 168,
+          "prod2": 672
+        }
+      }
+    },
+    {
+      "id": "num_028",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 15 \u00d7 24 and 16 \u00d7 34. Which product is greater?",
+      "q2": "Compare 16 \u00d7 34 and 15 \u00d7 24. Which product is greater?",
+      "correct_answer": "16 \u00d7 34",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 15,
+          "b": 24,
+          "c": 16,
+          "d": 34
+        },
+        "products": {
+          "prod1": 360,
+          "prod2": 544
+        }
+      }
+    },
+    {
+      "id": "num_029",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 27 \u00d7 39 and 50 \u00d7 33. Which product is greater?",
+      "q2": "Compare 50 \u00d7 33 and 27 \u00d7 39. Which product is greater?",
+      "correct_answer": "50 \u00d7 33",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 27,
+          "b": 39,
+          "c": 50,
+          "d": 33
+        },
+        "products": {
+          "prod1": 1053,
+          "prod2": 1650
+        }
+      }
+    },
+    {
+      "id": "num_030",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 20 \u00d7 33 and 32 \u00d7 23. Which product is greater?",
+      "q2": "Compare 32 \u00d7 23 and 20 \u00d7 33. Which product is greater?",
+      "correct_answer": "32 \u00d7 23",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 20,
+          "b": 33,
+          "c": 32,
+          "d": 23
+        },
+        "products": {
+          "prod1": 660,
+          "prod2": 736
+        }
+      }
+    },
+    {
+      "id": "num_031",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 27 \u00d7 14 and 48 \u00d7 50. Which product is greater?",
+      "q2": "Compare 48 \u00d7 50 and 27 \u00d7 14. Which product is greater?",
+      "correct_answer": "48 \u00d7 50",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 27,
+          "b": 14,
+          "c": 48,
+          "d": 50
+        },
+        "products": {
+          "prod1": 378,
+          "prod2": 2400
+        }
+      }
+    },
+    {
+      "id": "num_032",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 20 \u00d7 44 and 25 \u00d7 20. Which product is greater?",
+      "q2": "Compare 25 \u00d7 20 and 20 \u00d7 44. Which product is greater?",
+      "correct_answer": "20 \u00d7 44",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 20,
+          "b": 44,
+          "c": 25,
+          "d": 20
+        },
+        "products": {
+          "prod1": 880,
+          "prod2": 500
+        }
+      }
+    },
+    {
+      "id": "num_033",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 39 \u00d7 34 and 27 \u00d7 50. Which product is greater?",
+      "q2": "Compare 27 \u00d7 50 and 39 \u00d7 34. Which product is greater?",
+      "correct_answer": "27 \u00d7 50",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 39,
+          "b": 34,
+          "c": 27,
+          "d": 50
+        },
+        "products": {
+          "prod1": 1326,
+          "prod2": 1350
+        }
+      }
+    },
+    {
+      "id": "num_034",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 45 \u00d7 24 and 30 \u00d7 13. Which product is greater?",
+      "q2": "Compare 30 \u00d7 13 and 45 \u00d7 24. Which product is greater?",
+      "correct_answer": "45 \u00d7 24",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 45,
+          "b": 24,
+          "c": 30,
+          "d": 13
+        },
+        "products": {
+          "prod1": 1080,
+          "prod2": 390
+        }
+      }
+    },
+    {
+      "id": "num_035",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 24 \u00d7 12 and 30 \u00d7 35. Which product is greater?",
+      "q2": "Compare 30 \u00d7 35 and 24 \u00d7 12. Which product is greater?",
+      "correct_answer": "30 \u00d7 35",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 24,
+          "b": 12,
+          "c": 30,
+          "d": 35
+        },
+        "products": {
+          "prod1": 288,
+          "prod2": 1050
+        }
+      }
+    },
+    {
+      "id": "num_036",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 27 \u00d7 14 and 23 \u00d7 46. Which product is greater?",
+      "q2": "Compare 23 \u00d7 46 and 27 \u00d7 14. Which product is greater?",
+      "correct_answer": "23 \u00d7 46",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 27,
+          "b": 14,
+          "c": 23,
+          "d": 46
+        },
+        "products": {
+          "prod1": 378,
+          "prod2": 1058
+        }
+      }
+    },
+    {
+      "id": "num_037",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 30 \u00d7 23 and 41 \u00d7 35. Which product is greater?",
+      "q2": "Compare 41 \u00d7 35 and 30 \u00d7 23. Which product is greater?",
+      "correct_answer": "41 \u00d7 35",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 30,
+          "b": 23,
+          "c": 41,
+          "d": 35
+        },
+        "products": {
+          "prod1": 690,
+          "prod2": 1435
+        }
+      }
+    },
+    {
+      "id": "num_038",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 39 \u00d7 19 and 26 \u00d7 18. Which product is greater?",
+      "q2": "Compare 26 \u00d7 18 and 39 \u00d7 19. Which product is greater?",
+      "correct_answer": "39 \u00d7 19",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 39,
+          "b": 19,
+          "c": 26,
+          "d": 18
+        },
+        "products": {
+          "prod1": 741,
+          "prod2": 468
+        }
+      }
+    },
+    {
+      "id": "num_039",
+      "category": "numerical_comparison",
+      "difficulty": "medium",
+      "q1": "Compare 25 \u00d7 45 and 44 \u00d7 26. Which product is greater?",
+      "q2": "Compare 44 \u00d7 26 and 25 \u00d7 45. Which product is greater?",
+      "correct_answer": "44 \u00d7 26",
+      "metadata": {
+        "type": "multiplication_comparison",
+        "values": {
+          "a": 25,
+          "b": 45,
+          "c": 44,
+          "d": 26
+        },
+        "products": {
+          "prod1": 1125,
+          "prod2": 1144
+        }
+      }
+    },
+    {
+      "id": "num_040",
+      "category": "numerical_comparison",
+      "difficulty": "hard",
+      "q1": "Is 7^5 greater than or less than 6^5?",
+      "q2": "Is 6^5 greater than or less than 7^5?",
+      "correct_answer": "7^5",
+      "metadata": {
+        "type": "power_comparison",
+        "values": {
+          "a": 7,
+          "b": 5,
+          "c": 6,
+          "d": 5
+        },
+        "powers": {
+          "pow1": 16807,
+          "pow2": 7776
+        }
+      }
+    },
+    {
+      "id": "num_041",
+      "category": "numerical_comparison",
+      "difficulty": "hard",
+      "q1": "Is 4^3 greater than or less than 3^5?",
+      "q2": "Is 3^5 greater than or less than 4^3?",
+      "correct_answer": "3^5",
+      "metadata": {
+        "type": "power_comparison",
+        "values": {
+          "a": 4,
+          "b": 3,
+          "c": 3,
+          "d": 5
+        },
+        "powers": {
+          "pow1": 64,
+          "pow2": 243
+        }
+      }
+    },
+    {
+      "id": "num_042",
+      "category": "numerical_comparison",
+      "difficulty": "hard",
+      "q1": "Is 2^2 greater than or less than 8^2?",
+      "q2": "Is 8^2 greater than or less than 2^2?",
+      "correct_answer": "8^2",
+      "metadata": {
+        "type": "power_comparison",
+        "values": {
+          "a": 2,
+          "b": 2,
+          "c": 8,
+          "d": 2
+        },
+        "powers": {
+          "pow1": 4,
+          "pow2": 64
+        }
+      }
+    },
+    {
+      "id": "num_043",
+      "category": "numerical_comparison",
+      "difficulty": "hard",
+      "q1": "Is 3^3 greater than or less than 8^5?",
+      "q2": "Is 8^5 greater than or less than 3^3?",
+      "correct_answer": "8^5",
+      "metadata": {
+        "type": "power_comparison",
+        "values": {
+          "a": 3,
+          "b": 3,
+          "c": 8,
+          "d": 5
+        },
+        "powers": {
+          "pow1": 27,
+          "pow2": 32768
+        }
+      }
+    },
+    {
+      "id": "num_044",
+      "category": "numerical_comparison",
+      "difficulty": "hard",
+      "q1": "Is 6^2 greater than or less than 5^5?",
+      "q2": "Is 5^5 greater than or less than 6^2?",
+      "correct_answer": "5^5",
+      "metadata": {
+        "type": "power_comparison",
+        "values": {
+          "a": 6,
+          "b": 2,
+          "c": 5,
+          "d": 5
+        },
+        "powers": {
+          "pow1": 36,
+          "pow2": 3125
+        }
+      }
+    },
+    {
+      "id": "num_045",
+      "category": "numerical_comparison",
+      "difficulty": "hard",
+      "q1": "Is 6^5 greater than or less than 6^4?",
+      "q2": "Is 6^4 greater than or less than 6^5?",
+      "correct_answer": "6^5",
+      "metadata": {
+        "type": "power_comparison",
+        "values": {
+          "a": 6,
+          "b": 5,
+          "c": 6,
+          "d": 4
+        },
+        "powers": {
+          "pow1": 7776,
+          "pow2": 1296
+        }
+      }
+    },
+    {
+      "id": "num_046",
+      "category": "numerical_comparison",
+      "difficulty": "hard",
+      "q1": "Is 6^2 greater than or less than 7^2?",
+      "q2": "Is 7^2 greater than or less than 6^2?",
+      "correct_answer": "7^2",
+      "metadata": {
+        "type": "power_comparison",
+        "values": {
+          "a": 6,
+          "b": 2,
+          "c": 7,
+          "d": 2
+        },
+        "powers": {
+          "pow1": 36,
+          "pow2": 49
+        }
+      }
+    },
+    {
+      "id": "num_047",
+      "category": "numerical_comparison",
+      "difficulty": "hard",
+      "q1": "Is 7^4 greater than or less than 8^4?",
+      "q2": "Is 8^4 greater than or less than 7^4?",
+      "correct_answer": "8^4",
+      "metadata": {
+        "type": "power_comparison",
+        "values": {
+          "a": 7,
+          "b": 4,
+          "c": 8,
+          "d": 4
+        },
+        "powers": {
+          "pow1": 2401,
+          "pow2": 4096
+        }
+      }
+    },
+    {
+      "id": "num_048",
+      "category": "numerical_comparison",
+      "difficulty": "hard",
+      "q1": "Is 2^4 greater than or less than 5^3?",
+      "q2": "Is 5^3 greater than or less than 2^4?",
+      "correct_answer": "5^3",
+      "metadata": {
+        "type": "power_comparison",
+        "values": {
+          "a": 2,
+          "b": 4,
+          "c": 5,
+          "d": 3
+        },
+        "powers": {
+          "pow1": 16,
+          "pow2": 125
+        }
+      }
+    },
+    {
+      "id": "num_049",
+      "category": "numerical_comparison",
+      "difficulty": "hard",
+      "q1": "Is 5^2 greater than or less than 7^4?",
+      "q2": "Is 7^4 greater than or less than 5^2?",
+      "correct_answer": "7^4",
+      "metadata": {
+        "type": "power_comparison",
+        "values": {
+          "a": 5,
+          "b": 2,
+          "c": 7,
+          "d": 4
+        },
+        "powers": {
+          "pow1": 25,
+          "pow2": 2401
+        }
+      }
+    }
+  ]
+}
