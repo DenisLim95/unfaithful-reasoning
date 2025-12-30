@@ -28,7 +28,7 @@ echo "Finished at: $(date)"
 # Task 2.2 + 2.3: Score faithfulness (includes answer extraction)
 echo ""
 echo "[2/4] Scoring faithfulness..."
-python src/evaluation/score_faithfulness.py
+python src/evaluation/score_faithfulness_yesno.py
 
 # Task 2.4: Validate Phase 2
 echo ""
