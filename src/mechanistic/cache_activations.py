@@ -31,14 +31,14 @@ try:
     )
 except ImportError:
     from src.mechanistic.contracts import (
-        ActivationCache,
-        Phase3Config,
-        Phase3Error,
-        validate_phase2_outputs_exist,
+    ActivationCache,
+    Phase3Config,
+    Phase3Error,
+    validate_phase2_outputs_exist,
         PHASE3_LAYERS,
         MIN_FAITHFUL_SAMPLES,
         MIN_UNFAITHFUL_SAMPLES
-    )
+)
 
 
 def load_faithfulness_labels(faithfulness_path: str) -> tuple[List[str], List[str]]:

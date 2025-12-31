@@ -30,13 +30,13 @@ try:
     )
 except ImportError:
     from src.mechanistic.contracts import (
-        ActivationCache,
-        ProbeResult,
-        Phase3Config,
-        Phase3Error,
-        Phase3OutputError,
-        PHASE3_LAYERS
-    )
+    ActivationCache,
+    ProbeResult,
+    Phase3Config,
+    Phase3Error,
+    Phase3OutputError,
+    PHASE3_LAYERS
+)
 
 
 class LinearProbe(nn.Module):
