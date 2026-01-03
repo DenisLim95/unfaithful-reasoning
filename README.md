@@ -2,7 +2,7 @@
 
 This guide explains how to run each script in the pipeline, from generating questions to testing probes.
 
-## 📋 Prerequisites
+## Prerequisites
 
 ### 1. Create Virtual Environment
 
@@ -50,7 +50,7 @@ The pipeline uses `deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B`. Ensure you have:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Run the Full Pipeline (Recommended)
 ```bash
@@ -65,7 +65,7 @@ Follow the step-by-step guide below.
 
 ---
 
-## 📝 Step-by-Step Guide
+## Step-by-Step Guide
 
 ### Step 1: Generate Questions
 **Script**: `scripts/01_generate_questions.py`
@@ -336,7 +336,7 @@ python scripts/07_compare_methods.py \
 
 ---
 
-## 🔄 Workflows
+## Workflows
 
 ### Workflow 1: Full Pipeline (Training)
 ```bash
@@ -376,7 +376,7 @@ This assumes:
 
 ---
 
-## 📁 Directory Structure After Running
+## Directory Structure After Running
 
 ```
 mats-10.0/
@@ -416,7 +416,7 @@ mats-10.0/
 
 ---
 
-## 🧪 Testing Probe Generalization
+## Testing Probe Generalization
 
 To properly test probe generalization, you need **two separate datasets**:
 
@@ -444,7 +444,7 @@ python scripts/06_test_probes.py --probe-results results/probe_results/probe_res
 
 ---
 
-## ⚠️ Common Issues
+## Common Issues
 
 ### Issue 1: `ModuleNotFoundError: No module named 'pandas'`
 **Solution**: Install pandas
@@ -475,7 +475,7 @@ export OPENAI_API_KEY="sk-your-key-here"
 
 ---
 
-## 📊 Expected Results
+## Expected Results
 
 ### Good Signs:
 - **Faithfulness rate**: 60-80% (with LLM judge)
@@ -491,7 +491,7 @@ export OPENAI_API_KEY="sk-your-key-here"
 
 ---
 
-## 💡 Tips
+## Tips
 
 1. **Start small**: Test with 10-20 pairs first to verify the pipeline works
 2. **Use LLM judge**: More accurate than answer-correctness method
@@ -502,7 +502,7 @@ export OPENAI_API_KEY="sk-your-key-here"
 
 ---
 
-## 📚 Additional Resources
+## Additional Resources
 
 - **LLM Judge Guide**: `LLM_JUDGE_GUIDE.md`
 - **Refactoring Overview**: `REFACTORING_COMPLETE.md`
@@ -511,7 +511,7 @@ export OPENAI_API_KEY="sk-your-key-here"
 
 ---
 
-## 🎯 Summary
+## Summary
 
 **Minimal workflow** (all defaults):
 ```bash

@@ -61,6 +61,7 @@ Thumbs.db
 data/responses/
 data/processed/
 *.log
+prompts/
 
 # Jupyter Notebook
 .ipynb_checkpoints
