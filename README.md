@@ -1,5 +1,5 @@
 # Linear Encoding of CoT Unfaithfulness in Small Reasoning Model?
-Do small open-weight reasoning models (1.5B parameters) encode chain-of-thought faithfulness linearly, making real-time monitoring feasible?
+Do small open-weight reasoning models (1.5B parameters) encode chain-of-thought faithfulness linearly, making real-time monitoring feasible
 
 ## Prerequisites
 
