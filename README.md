@@ -1,4 +1,5 @@
-# How to Run the Faithfulness Pipeline
+# Linear Encoding of CoT Unfaithfulness in Small Reasoning Model
+Do small open-weight reasoning models (1.5B parameters) encode chain-of-thought faithfulness linearly, making real-time monitoring feasible?
 
 This guide explains how to run each script in the pipeline, from generating questions to testing probes.
 
