@@ -1,0 +1,16 @@
+# Phase 2 Dependencies
+# DEPRECATED: Use requirements.txt instead
+#
+# This file is kept for reference only.
+# Install all dependencies with: pip install -r requirements.txt
+
+# Minimal Phase 2 subset (for reference):
+# torch==2.2.0
+# transformers==4.39.0
+# accelerate==0.27.0
+# numpy>=1.26.0,<2.0.0
+# pandas==2.2.0
+# jsonlines==4.0.0
+# tqdm==4.66.1
+# pytest==8.0.0
+
