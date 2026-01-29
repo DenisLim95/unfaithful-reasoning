@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Technical Concepts Visualizations</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; }
+        h1 { color: #333; }
+        h2 { color: #666; border-bottom: 2px solid #ddd; padding-bottom: 10px; }
+        img { max-width: 100%; border: 1px solid #ddd; margin: 20px 0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); }
+        .description { background: #f9f9f9; padding: 15px; border-radius: 5px; margin-bottom: 30px; }
+    </style>
+</head>
+<body>
+    <h1>Technical Concepts Visualizations</h1>
+    <p>Visual explanations of key concepts from the CoT Unfaithfulness Detection project.</p>
+    
+    <h2>1. What Are Activations?</h2>
+    <div class="description">
+        Activations are the intermediate numerical values computed at each layer of the neural network.
+        They represent the model's "understanding" at each processing stage.
+    </div>
+    <img src="01_what_are_activations.png" alt="What Are Activations">
+    
+    <h2>2. The Residual Stream</h2>
+    <div class="description">
+        The residual stream is the main "highway" of information flow in a transformer.
+        Each layer adds to (rather than replaces) the information flowing through.
+    </div>
+    <img src="02_residual_stream.png" alt="Residual Stream">
+    
+    <h2>3. Mean Pooling</h2>
+    <div class="description">
+        Mean pooling averages activations across all tokens to get a fixed-size vector,
+        allowing us to compare questions of different lengths.
+    </div>
+    <img src="03_mean_pooling.png" alt="Mean Pooling">
+    
+    <h2>4. Linear Probe & Faithfulness Direction</h2>
+    <div class="description">
+        A linear probe is a simple classifier that learns to predict faithfulness from activations.
+        The learned weight vector represents the "faithfulness direction" in activation space.
+    </div>
+    <img src="04_linear_probe.png" alt="Linear Probe">
+    
+    <h2>5. Faithful vs Unfaithful Chain-of-Thought</h2>
+    <div class="description">
+        Faithful: The reasoning genuinely led to the answer.<br>
+        Unfaithful: The answer was decided first, then reasoning was generated to justify it.
+    </div>
+    <img src="05_faithful_vs_unfaithful.png" alt="Faithful vs Unfaithful">
+    
+    <h2>6. Layer Progression</h2>
+    <div class="description">
+        Shows how the separation between faithful and unfaithful responses changes across layers.
+        Middle layers (12, 18) typically show the best separation.
+    </div>
+    <img src="06_layer_progression.png" alt="Layer Progression">
+    
+    <h2>7. Full Pipeline</h2>
+    <div class="description">
+        The complete flow from question → model response → activations → probe → prediction.
+    </div>
+    <img src="07_full_pipeline.png" alt="Full Pipeline">
+</body>
+</html>
